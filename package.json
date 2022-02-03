@@ -12,7 +12,7 @@
   "name": "orionhillairetportfolio",
   "version": "1.0.0",
   "description": "Orion Hillairet porfolio",
-  "main": "app.js",
+  
   "scripts": {
     "start": "node ./app.js"
     
