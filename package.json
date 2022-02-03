@@ -14,7 +14,7 @@
   "description": "Orion Hillairet porfolio",
   "main": "app.js",
   "scripts": {
-    "start": "node /js/app.js"
+    "start": "node ./app.js"
     
   },
   "repository": {
