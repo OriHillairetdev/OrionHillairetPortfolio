@@ -12,9 +12,9 @@
   "name": "orionhillairetportfolio",
   "version": "1.0.0",
   "description": "Orion Hillairet porfolio",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node ./js/app.js"
     
   },
   "repository": {
