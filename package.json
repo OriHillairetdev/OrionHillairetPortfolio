@@ -14,7 +14,7 @@
   "description": "Orion Hillairet porfolio",
   
   "scripts": {
-    "start": "node ./app.js"
+    "start": "npx parcel index.html"
     
   },
   "repository": {
