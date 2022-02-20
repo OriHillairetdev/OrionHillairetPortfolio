@@ -1,4 +1,5 @@
-import * as THREE from "three";
+import * as THREE from 'https://unpkg.com/three@0.126.1/build/three.module.js';
+import { OrbitControls } from 'https://unpkg.com/three@0.126.1/examples/jsm/controls/OrbitControls.js';
 import fragment from "./shader/fragment.glsl";
 import vertex from "./shader/vertex.glsl";
 import GUI from "lil-gui";
